@@ -48,6 +48,7 @@
 - Split StackToolbar components into multiple files ([#43969](https://github.com/expo/expo/pull/43969) by [@Ubax](https://github.com/Ubax))
 - add processHeaderItemsForPlatform ([#44051](https://github.com/expo/expo/pull/44051) by [@Ubax](https://github.com/Ubax))
 - refactor global-state logic ([#44056](https://github.com/expo/expo/pull/44056) by [@Ubax](https://github.com/Ubax))
+- Rename `Stack.Screen.Title` to `Stack.Title`. The old name is kept as a deprecated alias. 
 
 ## 55.0.2 — 2026-02-25
 
